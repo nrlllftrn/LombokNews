@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "474412690525",
+    "project_id": "hola-54060",
+    "storage_bucket": "hola-54060.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474412690525:android:d5f2bd11009e521a65b1b4",
+        "android_client_info": {
+          "package_name": "com.development.lomboknews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474412690525-h4h5g4d2voadv776i1cp8vjokml58pu3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.development.lomboknews",
+            "certificate_hash": "16ad943db909eba6da109a67fe145c2f81610058"
+          }
+        },
+        {
+          "client_id": "474412690525-i0nbd9ommsau8m4kspkehefshdq2q1j7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.development.lomboknews",
+            "certificate_hash": "63ac75fc76c68e78ad88650578b672b27a284ba2"
+          }
+        },
+        {
+          "client_id": "474412690525-vk9rputhtes9fsff84ek47233i4h32gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG7tnw2m3Eh2EG_GFDUS4NASUOoTiFta8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474412690525-1tpes2iouatrvpd7icrmqrjv5mkchbmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474412690525:android:abbd93678221916565b1b4",
+        "android_client_info": {
+          "package_name": "com.rahmadev.machinelearning.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474412690525-hm1hie6kffgk7ae278707ton1kudr0pb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rahmadev.machinelearning.firebase",
+            "certificate_hash": "52912a4c5d2a8708ffb25218e6d5887b1b8a6a92"
+          }
+        },
+        {
+          "client_id": "474412690525-vk9rputhtes9fsff84ek47233i4h32gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG7tnw2m3Eh2EG_GFDUS4NASUOoTiFta8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474412690525-1tpes2iouatrvpd7icrmqrjv5mkchbmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
